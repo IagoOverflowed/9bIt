@@ -7,3 +7,4 @@
 - 9 food shulks for 6 pale oak shulks and 3 kurine kits
 - 3 shulks of mud for  Sniffer Cartel's sniffer kit
 - 1 dub of hay bales for 3 dubs of tridents
+- 18 shulkers of shulker shells for 25 shulkers fd3 rockets
