@@ -14,7 +14,7 @@ This is a project to provide an north for trades in the 9b9t it server
  - You're NOT obliged to follow these charts when doing a trade, however, people will apreciate if you do
  - The charts MAY be moved out of github if people wish so
  - All changes **MUST** be pushed to working branch, so people can discuss them before they become active
- - **IF YOU THINK THIS IS RETARDED, HELP IT BE LESS SO BE CONTRIBUTING TO IT!**
+ - **IF YOU THINK THIS IS RETARDED, HELP IT BE LESS SO BY CONTRIBUTING TO IT!**
 
 
 # List of charts:
