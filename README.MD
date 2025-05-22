@@ -17,5 +17,6 @@ This is a project to provide an north for trades in the 9b9t it server
 
 # List of charts:
 
- - FD3 - The firework index: 1 shulker with 1728x fd 3 fireworks
+ - FD3 - The firework index: 1 shulker with 1728x fd 3 fireworks, meant to be general purpose
+ - HC$ - The Heavycore Index: 1 singular Heavy Core, meant to be for rare item trading
  - ALL - Main chart: an compilation of all charts, (TBA)
